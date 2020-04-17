@@ -1,4 +1,4 @@
-# 借助 GitHub Actions 云编译 OpenWrt x86_64
+# 借助 GitHub Actions 云编译 OpenWrt x86_64(多功能Q版)
 
 `Github Actions` 是 GitHub 推出的持续集成服务，它提供了配置非常不错的虚拟服务器环境（E5 2vCPU/7G RAM），基于它可以进行构建、测试、打包、部署项目。
 
