@@ -18,8 +18,6 @@
 
 - 本项目插件来源的源码仓库：[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)、[Adguard Home插件](https://github.com/rufengsuixing/luci-app-adguardhome)、[OpenClash插件](https://github.com/vernesong/OpenClash)、[Clash插件](https://github.com/frainzy1477/luci-app-clash)、[KoolProxyR plus+插件](https://github.com/jefferymvp/luci-app-koolproxyR)
 
-- `fork`此项目后，默认每月1、12、23号自动编译新固件，(可在`Build_OP_x86_64.yml`文件中的`schedule` 和 `- cron`前面添加`# `取消此功能)---进入`Actions`标签页后，选择已完成的`workflows`后，在右方的`Artifacts`即可看到编译的固件
-
 ## 操作步骤
 
 - 注册[GitHub](https://github.com/join)账号
