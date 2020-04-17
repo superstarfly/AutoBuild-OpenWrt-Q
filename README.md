@@ -4,6 +4,8 @@
 
 ## 项目介绍
 
+- 由于大雕[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)转移或删除了`Ssr Plus+` `Passwall`源码，本项目已做好相应修改，直接编译即可获得最新`Ssr Plus+` `Passwall`插件
+
 - 本项目直接调用大雕[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)开源仓库源码，保证纯净
 
 - 借助`Github Actions`自动生成openwrt固件，感谢大雕[KFERMercer](https://github.com/KFERMercer/OpenWrt-CI)、[P3TERX](https://github.com/P3TERX/Actions-OpenWrt)、[esir](https://github.com/esirplayground/AutoBuild-OpenWrt)
@@ -29,6 +31,10 @@
 - 开始编译，可在`Actions`标签页进行查看--1）点击顶部`star`即可开始编译；2）也可进入`Build_OP_x86_64.yml`文件取消`push` `branches` `maser`前面`#`开始编译； 3）其他解锁编译由你来发现
 
 - 大功告成，下载固件---进入`Actions`标签页后，选择已完成的`workflows`后，在右方的`Artifacts`即可看到编译生成的固件
+
+- 安装使用openwrt系统---下载解压压缩包后，Openwrt_x86_64固件位于`targets\x86\64`下，选择`openwrt-x86-64-combined-squashfs.img.gz`固件,可直接在openwrt页面进行升级，建议不保留配置，防止出现未知情况（前提已安装过openwrt系统）;全新安装openwrt系统请google
+
+- 生成最新ipk---下载解压压缩包后，编译生成的最新ipk文件位于`packages\x86_64`目录下，请自寻查找
 
 - OpenWrt默认lan IP： `192.168.5.1`, 用户名 `root`，密码 `password`
 
