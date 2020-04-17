@@ -24,7 +24,7 @@
 
 - 注册[GitHub](https://github.com/join)账号
 
-- `Fork`此仓库源码 [GitHub repository](https://github.com/superstarfly/AutoBuild-OpenWrt-E)
+- `Fork`此仓库源码 [GitHub repository](https://github.com/superstarfly/AutoBuild-OpenWrt-Q)
 
 - 定制化固件---编辑`x86_64.config` `Build_OP_x86_64.yml`文件即可定制
 
