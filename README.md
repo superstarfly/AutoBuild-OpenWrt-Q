@@ -16,7 +16,7 @@
 
 - `fork`此项目后，点击顶部的`star`即可开始编译`openwrt`固件，真正的一键开始编译
 
-- 本项目插件来源的源码仓库：[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)、[Adguard Home插件](https://github.com/rufengsuixing/luci-app-adguardhome)、[OpenClash插件](https://github.com/vernesong/OpenClash)、[Clash插件](https://github.com/frainzy1477/luci-app-clash)、[KoolProxyR plus+插件](https://github.com/jefferymvp/luci-app-koolproxyR)
+- 本项目插件来源的源码仓库：[Lean's OpenWrt](https://github.com/coolsnowwolf/lede)、[Lienol's OpenWrt](https://github.com/Lienol/openwrt-package)、[Adguard Home插件](https://github.com/rufengsuixing/luci-app-adguardhome)、[OpenClash插件](https://github.com/vernesong/OpenClash)、[Clash插件](https://github.com/frainzy1477/luci-app-clash)、[KoolProxyR plus+插件](https://github.com/jefferymvp/luci-app-koolproxyR)、[OpenAppFilter应用过滤](https://github.com/destan19/OpenAppFilter)
 
 ## 操作步骤
 
